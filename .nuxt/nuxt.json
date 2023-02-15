@@ -1,0 +1,9 @@
+{
+  "_hash": "9Kt2Zy8XAb",
+  "project": {
+    "rootDir": "/var/www/html/projects/affinity-chat/client"
+  },
+  "versions": {
+    "nuxt": "3.2.0"
+  }
+}

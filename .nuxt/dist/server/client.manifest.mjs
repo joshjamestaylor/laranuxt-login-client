@@ -1,0 +1,1 @@
+export { default } from "file:///var/www/html/projects/affinity-chat/client/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
